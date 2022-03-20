@@ -26,3 +26,7 @@ RPA, Visual Basic
 For any support,comments and observations you can reach me at : sangkipgil@gmail.com
 ### License
 
+MIT License
+
+Copyright (c) 2022 gksang
+
